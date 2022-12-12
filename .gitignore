@@ -1,0 +1,23 @@
+__pycache__
+*.*~
+output/*.png
+sd2-front/node_modules
+sd2-front/.pnp
+sd2-front/.pnp.js
+
+# testing
+sd2-front/.coverage
+
+# production
+sd2-front/.build
+
+# misc
+sd2-front/.DS_Store
+sd2-front/.env.local
+sd2-front/.env.development.local
+sd2-front/.env.test.local
+sd2-front/.env.production.local
+
+sd2-front/npm-debug.log*
+sd2-front/yarn-debug.log*
+sd2-front/yarn-error.log*
